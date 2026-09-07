@@ -1,8 +1,6 @@
 ---
 name: chief-orchestration
 description: Coordinate substantial multi-part implementation work through a strict Human-to-Chief-to-Commander-to-Implementer/Verifier hierarchy, with bounded delegation, safe concurrency, independent review, and evidence-based completion gates. Use for complex workflows requiring orchestration; avoid for ordinary single-agent tasks.
-model: sonnet
-effort: high
 ---
 
 # Chief orchestration
