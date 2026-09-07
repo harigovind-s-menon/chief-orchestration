@@ -1,0 +1,17 @@
+{
+  "name": "chief-orchestration",
+  "version": "1.0.0",
+  "description": "Coordinate substantial implementation work through a strict Chief, Commander, Implementer, and Verifier hierarchy.",
+  "author": {
+    "name": "harigovind-s-menon"
+  },
+  "homepage": "https://github.com/harigovind-s-menon/chief-orchestration",
+  "repository": "https://github.com/harigovind-s-menon/chief-orchestration",
+  "license": "MIT",
+  "keywords": [
+    "orchestration",
+    "agent-hierarchy",
+    "delegation",
+    "verification"
+  ]
+}
