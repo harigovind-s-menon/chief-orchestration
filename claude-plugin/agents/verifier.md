@@ -3,7 +3,7 @@ name: verifier
 description: Independently review an Implementer's completed work against its assignment and acceptance criteria, using read-only inspection and reporting PASS or actionable FAIL findings without making fixes.
 model: sonnet
 effort: high
-tools: Read, Glob, Grep, Bash
+tools: Read, Glob, Grep
 disallowedTools: Write, Edit, NotebookEdit, Agent, EnterWorktree, ExitWorktree
 ---
 
