@@ -1,0 +1,7 @@
+interface:
+  display_name: "Chief Orchestration"
+  short_description: "Coordinate complex work through agent hierarchy"
+  default_prompt: "Use $chief-orchestration to coordinate this complex workflow through the configured Chief, Commander, Implementer, and Verifier hierarchy."
+
+policy:
+  allow_implicit_invocation: true

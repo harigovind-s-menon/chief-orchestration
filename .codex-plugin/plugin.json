@@ -1,0 +1,29 @@
+{
+  "name": "chief-orchestration",
+  "version": "1.0.1",
+  "description": "Coordinate substantial implementation work through a strict Chief, Commander, Implementer, and Verifier hierarchy.",
+  "author": {
+    "name": "harigovind-s-menon"
+  },
+  "keywords": [
+    "orchestration",
+    "agent-hierarchy",
+    "delegation",
+    "verification"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Chief Orchestration",
+    "shortDescription": "Coordinate complex work through an agent hierarchy",
+    "longDescription": "A reusable Codex skill for planning and coordinating substantial work through a strict Chief to Commander to Implementer and Verifier workflow, with dynamic preflight, bounded delegation, independent review, and evidence based completion gates.",
+    "developerName": "harigovind-s-menon",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $chief-orchestration to coordinate this complex workflow."
+    ]
+  }
+}
